@@ -378,8 +378,8 @@
 }
 ,
 {
-"vol"  : "ျမန္မာစာတန္းထိုးပါသည္။ (စ-ဆံုး)",
-"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(28 A.B)",
+"vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(28)",
 "cover" : "https://1.bp.blogspot.com/-AV1V9Df8R64/Xa7_1L9szNI/AAAAAAAACkc/QUkrmzLNuVETsqmPN5duIUUSTRTrmm1eQCLcBGAsYHQ/s600/28.jpg",
 "video" : "https://www.mediafire.com/file/oxppurn7pscktbv/28.mp4/file",
  "length" : "44;28"
@@ -404,7 +404,7 @@
 {
 "vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(30.A)",
-"cover" : "https://1.bp.blogspot.com/-0cPArSUrcTE/XbGpRrLfOxI/AAAAAAAACnY/F-5MvdwQp7IZCNq1wUP59PfH0cJ6vS-cwCLcBGAsYHQ/s320/30.jpg",
+"cover" : "https://1.bp.blogspot.com/-0cPArSUrcTE/XbGpRrLfOxI/AAAAAAAACnY/F-5MvdwQp7IZCNq1wUP59PfH0cJ6vS-cwCLcBGAsYHQ/s800/30.jpg",
 "video" : "https://openload.co/f/vEJRGIPigBY/30.A.mp4",
  "length" : "15;31"
 }
@@ -412,7 +412,7 @@
 {
 "vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(30.B)",
-"cover" : "https://1.bp.blogspot.com/-0cPArSUrcTE/XbGpRrLfOxI/AAAAAAAACnY/F-5MvdwQp7IZCNq1wUP59PfH0cJ6vS-cwCLcBGAsYHQ/s320/30.jpg",
+"cover" : "https://1.bp.blogspot.com/-0cPArSUrcTE/XbGpRrLfOxI/AAAAAAAACnY/F-5MvdwQp7IZCNq1wUP59PfH0cJ6vS-cwCLcBGAsYHQ/s800/30.jpg",
 "video" : "https://openload.co/f/Ackz2CNJLyM/30.C.mp4",
  "length" : "13;05"
 }
@@ -420,7 +420,7 @@
 {
 "vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(30.C)",
-"cover" : "https://1.bp.blogspot.com/-0cPArSUrcTE/XbGpRrLfOxI/AAAAAAAACnY/F-5MvdwQp7IZCNq1wUP59PfH0cJ6vS-cwCLcBGAsYHQ/s320/30.jpg",
+"cover" : "https://1.bp.blogspot.com/-0cPArSUrcTE/XbGpRrLfOxI/AAAAAAAACnY/F-5MvdwQp7IZCNq1wUP59PfH0cJ6vS-cwCLcBGAsYHQ/s800/30.jpg",
 "video" : "https://openload.co/f/kYECpnmOSgA/30.B.mp4",
  "length" : "16;18"
 }
@@ -452,7 +452,7 @@
 {
 "vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(34.A)",
-"cover" : "https://1.bp.blogspot.com/-etY6siff9IU/Xbg_9P136wI/AAAAAAAACu0/9yTxPM8Tdoweys0fWUMiEYU32J0kRRIxQCLcBGAsYHQ/s320/34.jpg",
+"cover" : "https://1.bp.blogspot.com/-etY6siff9IU/Xbg_9P136wI/AAAAAAAACu0/9yTxPM8Tdoweys0fWUMiEYU32J0kRRIxQCLcBGAsYHQ/s800/34.jpg",
 "video" : "http://www.mediafire.com/file/z3w3jo5cs9nhcxb/34.A.mp4/file",
  "length" : "22;28"
 }
@@ -460,7 +460,7 @@
 {
 "vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
 "title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(34.B)",
-"cover" : "https://1.bp.blogspot.com/-etY6siff9IU/Xbg_9P136wI/AAAAAAAACu0/9yTxPM8Tdoweys0fWUMiEYU32J0kRRIxQCLcBGAsYHQ/s320/34.jpg",
+"cover" : "https://1.bp.blogspot.com/-etY6siff9IU/Xbg_9P136wI/AAAAAAAACu0/9yTxPM8Tdoweys0fWUMiEYU32J0kRRIxQCLcBGAsYHQ/s800/34.jpg",
 "video" : "http://www.mediafire.com/file/nypxrostx4gjvhq/34.B.mp4/file",
  "length" : "21;47"
 }
@@ -559,6 +559,14 @@
 "cover" : "https://1.bp.blogspot.com/-LLodh51KzG8/XbhAAmiC-jI/AAAAAAAACvM/y1NaQODJJDoLmJFpp0T_VTpoi9EO5edKACLcBGAsYHQ/s800/40.jpg",
 "video" : "https://www.mediafire.com/file/817wu1mwahvqkcf/40.B.mp4/file",
  "length" : "22;12"
+}
+   ,
+{
+"vol"  : "ျမန္မာစာတန္းထိုးပါသည္။",
+"title" : "ကေ၀ပ်ိဳရဲ့ အမုန္း အပိုင္း(41.A)",
+"cover" : "https://1.bp.blogspot.com/-8uzf8AtDAQQ/XbhABlW6MYI/AAAAAAAACvQ/N9bS_Ij5yGcAacjYHC1v6jHL_807czX1gCLcBGAsYHQ/s800/41.jpg",
+"video" : "https://www.mediafire.com/file/2im96kkh1kpis65/41.A.mp4/file",
+ "length" : "21;54"
 }
 ]
 }
